@@ -1,0 +1,15 @@
+page-card {
+  ion-card {
+    position: relative;
+    text-align: center;
+
+  }
+  #title {
+    position: absolute;
+    top: 25%;
+    font-weight: bolder;
+    width: 100%;
+    color: #fff;
+  }
+
+}
